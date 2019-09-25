@@ -2,6 +2,9 @@ import React from "react";
 import { render } from "react-dom";
 import Pet from "./Pet";
 
+// git add -A && git commit -m "Your Message"
+// git push origin master
+
 const App = () => {
   //   return React.createElement(
   //     "div",
